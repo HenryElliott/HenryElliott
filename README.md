@@ -8,7 +8,7 @@ I build tools that solve real problems, spanning cybersecurity, software develop
 
 ## 🤓 Stats For Nerds
 
-![Profile Views](https://komarev.com/ghpvc/?username=HenryElliott&label=Total%20Profile%20Views&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=HenryElliott&label=Total%20Profile%20Views&color=ff2e88&style=for-the-badge)
 ![Henry's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=HenryElliott&show_icons=true&theme=radical)
 ![Top Languages](./profile/top-langs.svg)
 
