@@ -9,8 +9,8 @@ I build tools that solve real problems, spanning cybersecurity, software develop
 ## 🤓 Stats For Nerds
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenryElliott&label=Total%20Profile%20Views&style=flat)
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryElliott&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryElliott&layout=compact&theme=radical&hide_border=true)
+![Henry's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
@@ -75,7 +75,7 @@ class Henry(Readme):
 
 ## 📊 Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HenryElliott&theme=radical&hide_border=true)
+![GitHub Streak](./profile/streak.svg)
 
 ---
 
