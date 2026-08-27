@@ -1,8 +1,12 @@
+<div align="center">
+
 # 👋 Hey, I'm Henry Elliott
 
 ### Cybersecurity • Developer • Crypto & Web3
 
 I build tools that solve real problems, spanning cybersecurity, software development, automation, and blockchain technology.
+
+</div>
 
 ---
 
@@ -19,7 +23,7 @@ I build tools that solve real problems, spanning cybersecurity, software develop
 
 ---
 
-## 💻 About Me
+<h2 align="center">💻 About Me</h2>
 
 ```python
 from github import Readme
@@ -44,18 +48,20 @@ class Henry(Readme):
 
 ---
 
-## 🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
-## 🔐 Cybersecurity Focus
+<h2 align="center">🔐 Cybersecurity Focus</h2>
 
 ```text
 > Security Research
@@ -67,7 +73,7 @@ class Henry(Readme):
 
 ---
 
-## ⛓️ Web3 Focus
+<h2 align="center">⛓️ Web3 Focus</h2>
 
 ```text
 > Solana Development
@@ -78,14 +84,22 @@ class Henry(Readme):
 
 ---
 
-## 📊 Activity
+<h2 align="center">📊 Activity</h2>
 
-![GitHub Streak](./profile/streak.svg)
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
+</p>
 
-### 🐍 Contribution Snake
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<img src="https://raw.githubusercontent.com/HenryElliott/HenryElliott/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/HenryElliott/HenryElliott/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
+<div align="center">
+
 ### 🕷️ Build. Break. Learn. Repeat.
+
+</div>
