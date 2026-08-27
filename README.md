@@ -2,16 +2,14 @@
 
 ### Cybersecurity • Developer • Crypto & Web3
 
-I'm interested in cybersecurity, software development, automation, blockchain technology, and building tools that solve real problems.
+I build tools that solve real problems, spanning cybersecurity, software development, automation, and blockchain technology.
 
 ---
 
 ## 🤓 Stats For Nerds
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenryElliott&label=Total%20Profile%20Views&style=flat)
-
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryElliott&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryElliott&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -19,7 +17,8 @@ I'm interested in cybersecurity, software development, automation, blockchain te
 ## 💻 About Me
 
 ```python
-from GitHub import Readme
+from github import Readme
+
 
 class Henry(Readme):
     def __init__(self):
@@ -31,7 +30,7 @@ class Henry(Readme):
             "Automation",
             "Blockchain",
             "Solana",
-            "Web3"
+            "Web3",
         ]
 
     def currently_building(self):
@@ -51,28 +50,25 @@ class Henry(Readme):
 
 ---
 
-## 🔐 Cybersecurity
+## 🔐 Cybersecurity Focus
 
 ```text
 > Security Research
-> Python Automation
 > OSINT
 > Networking
-> Linux
 > Privacy & OPSEC
+> Python-based Automation
 ```
 
 ---
 
-## ⛓️ Web3
+## ⛓️ Web3 Focus
 
 ```text
-Solana
-Blockchain Development
-On-Chain Analytics
-Trading Tools
-Automation
-Crypto APIs
+> Solana Development
+> On-Chain Analytics
+> Trading Tools
+> Crypto APIs
 ```
 
 ---
