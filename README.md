@@ -6,11 +6,16 @@ I build tools that solve real problems, spanning cybersecurity, software develop
 
 ---
 
-## 🤓 Stats For Nerds
+<h2 align="center">🤓 Stats For Nerds</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HenryElliott&label=Total%20Profile%20Views&color=ff2e88&style=for-the-badge)
-![Henry's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=HenryElliott&show_icons=true&theme=radical)
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HenryElliott&label=TOTAL%20PROFILE%20VIEWS&color=ff2e88&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img width="52%" src="./profile/stats.svg" alt="Henry Elliott GitHub Stats" />
+  <img width="42%" src="./profile/top-langs.svg" alt="Most Used Languages" />
+</p>
 
 ---
 
