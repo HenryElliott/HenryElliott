@@ -77,6 +77,23 @@ class Henry(Readme):
 
 ![GitHub Streak](./profile/streak.svg)
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HenryElliott/HenryElliott/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HenryElliott/HenryElliott/output/github-snake.svg"
+  />
+  <img
+    alt="Henry Elliott's GitHub contribution snake"
+    src="https://raw.githubusercontent.com/HenryElliott/HenryElliott/output/github-snake.svg"
+  />
+</picture>
+
 ---
 
 ### 🕷️ Build. Break. Learn. Repeat.
