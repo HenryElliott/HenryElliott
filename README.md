@@ -1,14 +1,14 @@
 <div align="center">
 
-Hey, I’m Henry Elliott
+# Hey, I'm Henry Elliott
 
-Cybersecurity • Developer • Finance • Crypto & Web3
+### Cybersecurity • Developer • Finance • Crypto & Web3
 
 I build tools that solve real problems, spanning cybersecurity, software development, automation, financial markets, and blockchain technology.
 
 </div>
 
-────────
+---
 
 <h2 align="center">Stats For Nerds</h2>
 
@@ -21,7 +21,7 @@ I build tools that solve real problems, spanning cybersecurity, software develop
   <img width="42%" src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 
-────────
+---
 
 <h2 align="center">About Me</h2>
 
@@ -47,7 +47,7 @@ class Henry(Readme):
         return "Something interesting..."
 ```
 
-────────
+---
 
 <h2 align="center">Languages & Tools</h2>
 
@@ -93,7 +93,7 @@ class Henry(Readme):
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </p>
 
-────────
+---
 
 <h2 align="center">Cybersecurity Focus</h2>
 
@@ -105,7 +105,7 @@ class Henry(Readme):
 > Python-based Automation
 ```
 
-────────
+---
 
 <h2 align="center">Web3 Focus</h2>
 
@@ -116,7 +116,7 @@ class Henry(Readme):
 > Crypto APIs
 ```
 
-────────
+---
 
 <h2 align="center">Beyond Code</h2>
 
@@ -126,7 +126,7 @@ class Henry(Readme):
   CS2 Skins & Collectibles
 </p>
 
-────────
+---
 
 <h2 align="center">Activity</h2>
 
@@ -140,10 +140,10 @@ class Henry(Readme):
   <img width="100%" src="https://raw.githubusercontent.com/HenryElliott/HenryElliott/output/snake.svg" alt="Snake animation" />
 </p>
 
-────────
+---
 
 <div align="center">
 
-Build. Break. Learn. Repeat.
+### Build. Break. Learn. Repeat.
 
 </div>
